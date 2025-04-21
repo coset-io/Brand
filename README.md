@@ -2,19 +2,20 @@
 
 ## logo
 ### .svg
-1. white background
-![]("logo/Coset logo white background.svg")
+1. white background  
+![Coset white background](logo/Coset%20logo%20white%20background.svg)
 
-2. black background
-![]("logo/Coset logo black background.svg")
+2. black background  
+![Coset black background](logo/Coset%20logo%20black%20background.svg)
 
+---
 
 ### .png(no background)
-![]("logo/Coset logo white font.png")
+![Coset white font](logo/Coset%20logo%20white%20font.png)
 
-![]("logo/Coset logo black font.png")
+![Coset black font](logo/Coset%20logo%20black%20font.png)
 
-
+---
 ### Only logo(without font)
-![]("logo/logo only-white background.png")
-![]("logo/logo only-black background.png")
+![Only White](logo/logo%20only-white%20background.png)  
+![Only Black](logo/logo%20only-black%20background.png)
